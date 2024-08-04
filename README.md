@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone 👋, I'm LAKSHYA RAJ VIJAY</h1>
-<h3 align="center">A passionate developer from India. I wish your coding journey is filled with fantastic commits and seamless merges! Keep coding! 👋👋</h3>
+<h3 align="center">A passionate developer from India. I wish your coding journey is filled with fantastic commits and seamless merges! Keep coding!👋👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky0612&label=Profile%20views&color=0e75b6&style=flat" alt="lucky0612" /> </p>
 
