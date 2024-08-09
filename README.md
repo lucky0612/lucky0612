@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 👋, I'm LAKSHYA RAJ VIJAY</h1>
+<h1 align="center">Hello everyone 👋 , I'm LAKSHYA RAJ VIJAY</h1>
 <h3 align="center">A passionate developer from India. I wish your coding journey is filled with fantastic commits and seamless merge! Keep coding! 👋👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucky0612&label=Profile%20views&color=0e75b6&style=flat" alt="lucky0612" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/laraviorb" target="blank"><img src="https://img.shields.io/twitter/follow/laraviorb?logo=twitter&style=for-the-badge" alt="laraviorb" /></a> </p>
 
-- 🌱 I’m currently learning **working on GenAi and Blockchain**
+- 🌱 I’m currently **working on GenAi and Blockchain**
 
 - 📫 How to reach me ***20laravi03@gmail.com***
 
