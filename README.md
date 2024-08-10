@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently **working on GenAi and Blockchain**
 
-- 📫 How to reach me ***20laravi03@gmail.com***
+- 📫 How to reach me *** 20laravi03@gmail.com ***
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
